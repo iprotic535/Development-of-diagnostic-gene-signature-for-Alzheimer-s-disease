@@ -27,7 +27,7 @@
 1. **Select one cohort** as the **discovery cohort** to develop gene signatures.
 2. **Validate** the gene signature(s) in the **other two cohorts**.
 3. **Generate figures** showcasing the performance of gene signatures in both discovery and validation cohorts.
-4. **Prepare a presentation** to introduce and explain the gene signature(s).
+4. **Required Files** for this project can be accessed from this link: https://drive.google.com/file/d/1sb0ceVLUW69pceEBU8Qw3Wk3GwVJWp4T/view?usp=sharing
 
 ## **Installation & Dependencies**
 
